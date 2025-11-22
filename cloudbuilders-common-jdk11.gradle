@@ -3,7 +3,7 @@ ext {
     apacheCommonsFileUploadVersion = "1.5"
     apacheCommonsIOVersion = "2.18.0"
     apacheCommonsVersion = "3.14.0"
-    apacheHTTPClientVersion = "4.5.24"
+    apacheHTTPClientVersion = "4.5.26"
     apacheLog4jVersion = "2.23.1"
     apacheValidatorVersion = "1.7"
     aspectjrtVersion = "1.9.8"
