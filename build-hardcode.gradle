@@ -20,7 +20,7 @@ dependencies {
     implementation "com.fasterxml.jackson.datatype:jackson-datatype-hibernate6:2.18.2"
     implementation "com.fasterxml.jackson.jakarta.rs:jackson-jakarta-rs-json-provider:2.18.3"
 
-    implementation "org.apache.commons:commons-lang3:3.17.0"
+    implementation "org.apache.commons:commons-lang3:3.18.0"
     implementation "org.apache.commons:commons-collections4:4.4"
     implementation "commons-validator:commons-validator:1.9.0"
     implementation "commons-beanutils:commons-beanutils:1.9.4"
